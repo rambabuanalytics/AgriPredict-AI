@@ -1,7 +1,7 @@
 # APP CONFIG
 
 APP_TITLE = "AgriPredict AI"
-APP_ICON = "🌾"
+APP_ICON = " "
 
 # MODEL PATH
 
