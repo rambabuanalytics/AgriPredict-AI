@@ -175,6 +175,8 @@ streamlit run app/main.py
 
 ### Rambabu Analytics
 
+B.Tech CSE (AI/ML)
+
 AI • Data Analytics • Machine Learning • Power BI
 
 ---
