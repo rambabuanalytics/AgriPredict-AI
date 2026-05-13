@@ -6,7 +6,7 @@ from prediction import predict_yield
 
 st.set_page_config(
     page_title="AgriPredict AI",
-    page_icon="🌾",
+    page_icon=" ",
     layout="wide"
 )
 
